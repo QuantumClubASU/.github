@@ -22,7 +22,8 @@ https://discord.gg/GfJUfyRpty
 
 ### Contact us 
 Have questions or want to connect? Find us on :
-* Email: [quantumclub.asu@gmail.com](mailto:quantumclub.asu@gmail.com)
+
+* [Mail: quantumclub.asu@gmail.com](mailto:quantumclub.asu@gmail.com) 
 * ![](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg) | [@quantum-club-asu](https://www.linkedin.com/company/quantum-club-asu/)
 * ![](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg) | [@quantumclubasu](https://www.instagram.com/quantumclubasu/)
 * ![](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/discord.svg) | [@QuantumClub](https://discord.gg/GfJUfyRpty)

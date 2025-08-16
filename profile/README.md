@@ -24,6 +24,6 @@ https://discord.gg/GfJUfyRpty
 Have questions or want to connect? Find us on :
 * Email: [quantumclub.asu@gmail.com](mailto:quantumclub.asu@gmail.com)
 * [LinkedIn](https://www.linkedin.com/company/quantum-club-asu/)
-* [Instagram](https://www.instagram.com/quantumclubasu/)
+* ![](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/instagram.svg) [Instagram](https://www.instagram.com/quantumclubasu/)
 * [Discord](https://discord.gg/GfJUfyRpty)
 
